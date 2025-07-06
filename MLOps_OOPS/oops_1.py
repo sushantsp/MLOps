@@ -15,6 +15,9 @@ class employee:
 
 sam = employee()
 
+# add comments
+# printing object attribute
 print(sam.name)
 
+# printing object method. 
 print(sam.travel("Netherlands"))

@@ -2,4 +2,4 @@
 2. Class has data/attribute and func/methods
     > Code walkthrough
     > attributes get called itself, methods are called manully
-3. Why python is called OOP ?
+3. Why python is called OOP ? - everthing in python object.
