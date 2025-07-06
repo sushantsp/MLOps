@@ -3,3 +3,7 @@
     > Code walkthrough
     > attributes get called itself, methods are called manully
 3. Why python is called OOP ? - everthing in python object.
+    > you can create your own datatypes
+    > code reusability
+    > debugging
+    > easy to colab
