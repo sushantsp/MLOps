@@ -3,7 +3,21 @@
     > Code walkthrough
     > attributes get called itself, methods are called manully
 3. Why python is called OOP ? - everthing in python object.
+4. WHy OOPs ?
     > you can create your own datatypes
     > code reusability
     > debugging
     > easy to colab
+
+5. End to end Work on clases
+    > func vs methods
+    > magic method vs dunder methods
+    > self - it is the object itself. object only is allowed to access to attributes and methods
+    > getter and setter
+        to get and set the hidden attrivute.
+    > static method
+
+Encapsulation :- You can not fully protect attributes or mthod in pyhton. __name way to encapsulate.
+
+static methods dont require object as their argument. They are direct class methods and does not require object for them to access.
+You decorate a static method with `@staticmethod` decorator.

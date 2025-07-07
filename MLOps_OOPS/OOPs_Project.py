@@ -1,11 +1,31 @@
 class Blogger:
 
+    # class attribute and available to all the object. in this case not because of encaps. __
+    __user_id = 1
+
     def __init__(self):
-        
+        self.id = Blogger.__user_id
+        Blogger.__user_id +=1
+        self.__name = "Default User"
         self.username = ''
         self.password = ''
         self.loggedin = False
-        self.menu()
+        # self.menu()
+
+
+    @staticmethod
+    def set_id(val):
+        Blogger.__user_id = val
+
+    @staticmethod
+    def get_id():
+        return Blogger.__user_id
+
+    def get_name(self):
+        return self.__name
+    
+    def set_name(self, value):
+        self.__name = value
         
     def menu(self):
 
@@ -77,4 +97,4 @@ class Blogger:
         print("\n")
         self.menu()
 
-user = Blogger()
+# user = Blogger()
