@@ -37,6 +37,9 @@ attribute you need to use `super.__init__()` in child Constructor method. This i
 attirbutes of itself. which can be used in other methods of child. Again to use parent attirbutes after defining super,
 That attirbute or method needs to be called with super. E.g. super.speak() etc etc
 
+- Dunder or Constructor mehtod of the CHild class or derived class overrides the Constructor method the base class.
+If you would like call in attributes of the base class along with defining the constructor method for the child class 
+use super keyword,
 
 Types of Inheritance :
     1. Single
