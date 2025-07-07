@@ -17,7 +17,22 @@
         to get and set the hidden attrivute.
     > static method
 
+
 Encapsulation :- You can not fully protect attributes or mthod in pyhton. __name way to encapsulate.
 
 static methods dont require object as their argument. They are direct class methods and does not require object for them to access.
 You decorate a static method with `@staticmethod` decorator.
+
+
+6. Inheritance 
+    > Why Inheritance ?
+    > Parent cannot access to the Child propeties or methods.
+    > what gets inheritd - Constructor, non private attr and methods
+    > Constructor overloading an method overloading
+    > SUper Keyword - can be used only inside the class. cannot access variables/attributes, used only inside the class.
+
+
+When you define a Constructor method for child class, it overrides the Constructor mthod of a parent. To access the parents 
+attribute you need to use `super.__init__()` in child Constructor method. This inherits the attirbutes of parent class and can have
+attirbutes of itself. which can be used in other methods of child. Again to use parent attirbutes after defining super,
+That attirbute or method needs to be called with super. E.g. super.speak() etc etc
