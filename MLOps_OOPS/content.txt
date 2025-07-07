@@ -36,3 +36,11 @@ When you define a Constructor method for child class, it overrides the Construct
 attribute you need to use `super.__init__()` in child Constructor method. This inherits the attirbutes of parent class and can have
 attirbutes of itself. which can be used in other methods of child. Again to use parent attirbutes after defining super,
 That attirbute or method needs to be called with super. E.g. super.speak() etc etc
+
+
+Types of Inheritance :
+    1. Single
+    2. Mulitlevel
+    3. Hierarchical
+    4. Multiple <Diamond Problem>
+    5. Hybrid
