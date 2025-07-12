@@ -5,7 +5,7 @@ import logging
 import yaml
 
 
-# Ensure the "logs" directory exists
+# Ensure the log dir exists
 log_dir = 'logs'
 os.makedirs(log_dir, exist_ok=True)
 
@@ -13,6 +13,7 @@ os.makedirs(log_dir, exist_ok=True)
 # logging configuration
 logger = logging.getLogger('data_ingestion')
 logger.setLevel('DEBUG')
+
 
 console_handler = logging.StreamHandler()
 console_handler.setLevel('DEBUG')
