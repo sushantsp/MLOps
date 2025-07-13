@@ -34,4 +34,6 @@ Now coming to git and DVC - First without git, you cannot use DVC.
 13. Check dvc/git status, everything should be upto date.
 14. Now repeat step 10-12 for v3 of data.
 
+15. Now If you want to go to the first version of that data. First git checkout the code where that commit is that pulls the respective data.dvc. Now you can do dvc checkout. This will pull back the data to that point in time. 
+
 Here the .dvc folder which carries cache and config files, dvc already adds them to another .gitignore in .dvc folder. So git is not tracking that. They just remain local. QUestion now is if we are saving the versions of data locally again - whats the point of remote ?
