@@ -33,3 +33,5 @@ Now coming to git and DVC - First without git, you cannot use DVC.
 12. Then git add-commit-push (we're saving V2 of our data at this point)
 13. Check dvc/git status, everything should be upto date.
 14. Now repeat step 10-12 for v3 of data.
+
+Here the .dvc folder which carries cache and config files, dvc already adds them to another .gitignore in .dvc folder. So git is not tracking that. They just remain local. QUestion now is if we are saving the versions of data locally again - whats the point of remote ?
