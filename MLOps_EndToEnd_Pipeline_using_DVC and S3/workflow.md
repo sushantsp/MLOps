@@ -27,7 +27,16 @@ Expermients with DVC:
 18> Now git add, commit, push
 
 
-
+Adding a Remote s3 bucket
+1. Login to AWS Console
+2. create an IAM user
+3. Create S3
+4. pip install dvc[s3]
+5. pip install awscli
+6. 'aws configure' - on terminal
+7. dvc remote add -d vectorestore s3://bucketname
+8. dvc commit-push the exp outcome that you want to log with dvc
+9. finally git add, commit, push
 
 
 
