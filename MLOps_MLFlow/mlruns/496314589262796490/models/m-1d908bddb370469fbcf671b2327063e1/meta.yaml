@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Courses%20and%20books/MLOps/MLOps_MLFlow/mlruns/496314589262796490/models/m-1d908bddb370469fbcf671b2327063e1/artifacts
+creation_timestamp: 1752911832477
+experiment_id: '496314589262796490'
+last_updated_timestamp: 1752911870108
+model_id: m-1d908bddb370469fbcf671b2327063e1
+model_type: null
+name: RandomForestModel
+source_run_id: 40be7518528046388351662efe9f86b6
+status: 2
+status_message: null

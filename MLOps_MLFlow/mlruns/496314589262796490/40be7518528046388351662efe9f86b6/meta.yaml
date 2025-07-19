@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Courses%20and%20books/MLOps/MLOps_MLFlow/mlruns/496314589262796490/40be7518528046388351662efe9f86b6/artifacts
+end_time: 1752911870152
+entry_point_name: ''
+experiment_id: '496314589262796490'
+lifecycle_stage: active
+run_id: 40be7518528046388351662efe9f86b6
+run_name: persistent-auk-419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752911830070
+status: 3
+tags: []
+user_id: Admin
