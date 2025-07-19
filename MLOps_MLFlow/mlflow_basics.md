@@ -106,4 +106,9 @@ MLflow is a powerful tool for tracking and managing machine learning experiments
      mlflow.set_experiment("Experiment_1")
      ```
 
+
+### Tracking Servers
+![alt text](Tracking_servers.png)
+
+
 This comprehensive guide with commands and examples should help users understand how to use MLflow effectively for tracking and managing their machine learning
