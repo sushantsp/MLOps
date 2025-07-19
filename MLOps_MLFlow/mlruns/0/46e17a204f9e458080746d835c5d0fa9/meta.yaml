@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Courses%20and%20books/MLOps/MLOps_MLFlow/mlruns/0/46e17a204f9e458080746d835c5d0fa9/artifacts
+deleted_time: 1752910980329
+end_time: 1752910717448
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 46e17a204f9e458080746d835c5d0fa9
+run_name: victorious-pug-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752910716549
+status: 3
+tags: []
+user_id: Admin

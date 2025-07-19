@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Courses%20and%20books/MLOps/MLOps_MLFlow/mlruns/496314589262796490/78d5f58398a5420cb8239292a45b3ca1/artifacts
+end_time: 1752911263917
+entry_point_name: ''
+experiment_id: '496314589262796490'
+lifecycle_stage: active
+run_id: 78d5f58398a5420cb8239292a45b3ca1
+run_name: popular-fox-640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752911262237
+status: 3
+tags: []
+user_id: Admin
