@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Courses%20and%20books/MLOps/MLOps_MLFlow/mlruns/100703426091117293/e2cad66cd15c498fbbc7725bbd8eb9e2/artifacts
+end_time: 1752915021975
+entry_point_name: ''
+experiment_id: '100703426091117293'
+lifecycle_stage: active
+run_id: e2cad66cd15c498fbbc7725bbd8eb9e2
+run_name: bittersweet-calf-202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752915021742
+status: 3
+tags: []
+user_id: Admin

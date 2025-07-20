@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Courses%20and%20books/MLOps/MLOps_MLFlow/mlruns/100703426091117293/f449c8ba215a48fd8f53f5058de0627a/artifacts
+end_time: 1752915018995
+entry_point_name: ''
+experiment_id: '100703426091117293'
+lifecycle_stage: active
+run_id: f449c8ba215a48fd8f53f5058de0627a
+run_name: agreeable-dog-172
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752915018710
+status: 3
+tags: []
+user_id: Admin

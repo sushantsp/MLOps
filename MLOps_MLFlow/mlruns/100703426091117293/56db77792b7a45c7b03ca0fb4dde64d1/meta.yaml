@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Courses%20and%20books/MLOps/MLOps_MLFlow/mlruns/100703426091117293/56db77792b7a45c7b03ca0fb4dde64d1/artifacts
+end_time: 1752915021164
+entry_point_name: ''
+experiment_id: '100703426091117293'
+lifecycle_stage: active
+run_id: 56db77792b7a45c7b03ca0fb4dde64d1
+run_name: delightful-steed-69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752915020965
+status: 3
+tags: []
+user_id: Admin

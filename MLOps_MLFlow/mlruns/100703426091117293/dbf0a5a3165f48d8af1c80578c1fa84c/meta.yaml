@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Courses%20and%20books/MLOps/MLOps_MLFlow/mlruns/100703426091117293/dbf0a5a3165f48d8af1c80578c1fa84c/artifacts
+end_time: 1752915018663
+entry_point_name: ''
+experiment_id: '100703426091117293'
+lifecycle_stage: active
+run_id: dbf0a5a3165f48d8af1c80578c1fa84c
+run_name: awesome-shrew-77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752915018380
+status: 3
+tags: []
+user_id: Admin

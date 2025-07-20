@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Courses%20and%20books/MLOps/MLOps_MLFlow/mlruns/100703426091117293/b76f566822374fbf95e36e441b837595/artifacts
+end_time: 1752915017982
+entry_point_name: ''
+experiment_id: '100703426091117293'
+lifecycle_stage: active
+run_id: b76f566822374fbf95e36e441b837595
+run_name: orderly-hare-834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752915017650
+status: 3
+tags: []
+user_id: Admin

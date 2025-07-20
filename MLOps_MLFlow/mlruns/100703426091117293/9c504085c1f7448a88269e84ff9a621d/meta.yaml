@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Courses%20and%20books/MLOps/MLOps_MLFlow/mlruns/100703426091117293/9c504085c1f7448a88269e84ff9a621d/artifacts
+end_time: 1752915055647
+entry_point_name: ''
+experiment_id: '100703426091117293'
+lifecycle_stage: active
+run_id: 9c504085c1f7448a88269e84ff9a621d
+run_name: bold-toad-364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752914985148
+status: 3
+tags: []
+user_id: Admin
