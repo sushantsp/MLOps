@@ -173,12 +173,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-
+artifact/
 
 todo.md
 .ipynb
 
 
 
-# 27mVoZAhff8NCxrA sushantlearns_db_user
-# $env:MONGODB_URL = "mongodb+srv://sushantlearns_db_user:27mVoZAhff8NCxrA@cluster0.gjag9fr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
