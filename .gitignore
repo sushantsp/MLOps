@@ -176,10 +176,9 @@ cython_debug/
 
 
 todo.md
+.ipynb
 
 
 
-sushant_db_user
-9BnJ9etbbYn7kqG6
-
-mongodb+srv://sushant_db_user:<db_password>@cluster0.soybyus.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+# 27mVoZAhff8NCxrA sushantlearns_db_user
+# $env:MONGODB_URL = "mongodb+srv://sushantlearns_db_user:27mVoZAhff8NCxrA@cluster0.gjag9fr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
